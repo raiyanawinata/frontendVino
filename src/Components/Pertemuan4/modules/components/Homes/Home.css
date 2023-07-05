@@ -1,0 +1,16 @@
+.Fcontainer {
+  background-color: #f7e6c4;
+  width: 90vw;
+  height: 800px;
+  margin-left: 5%;
+  margin-top: 50px;
+}
+.ini {
+  font-size: 50px;
+  font-weight: lighter;
+  background-color: #fff6f4;
+  width: 800px;
+  height: 160px;
+  margin-left: 400px;
+  text-align: center;
+}

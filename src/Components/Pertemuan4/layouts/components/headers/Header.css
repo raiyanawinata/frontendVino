@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,300;1,400;1,500&display=swap");
+
+.Logogua {
+  height: 110px;
+}
+
+.NM {
+  color: #525fe1;
+  font-weight: bold;
+  font-size: 36px;
+  font-family: "Poppins", sans-serif;
+}
+
+.TY {
+  font-size: 20px;
+}
